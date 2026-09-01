@@ -17,14 +17,5 @@
 
 ---
 
-### 📊 GitHub Analytics & Ecosystem Metrics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Ananya's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/ananya-anand-aicsbt/
