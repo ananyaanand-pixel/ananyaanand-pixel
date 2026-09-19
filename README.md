@@ -13,7 +13,7 @@
 
 ### 📊 Active Laboratory Repositories
 * 📁 **[bio-cs](https://github.com/ananyaanand-pixel/bio-cs)**: Houses my `dnaseq.py` tool exploring nucleotide strings.(its currently private due personal reasons.)
-* 📁 **[start1levelbtoa](https://github.com/ananyaanand-pixel/start1levelbtoa)**: Simple data scrambling and obfuscation experiments.
+* 📁 **[beginningprojects](https://github.com/ananyaanand-pixel/beginningprojects)**: Simple data scrambling and obfuscation experiments.
 * 📁 **[30days](https://github.com/ananyaanand-pixel/30days)**: 30 days challenge of creating new python codes everyday.
 
 ---
