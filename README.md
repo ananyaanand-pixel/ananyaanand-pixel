@@ -20,9 +20,6 @@
 
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/ananya-anand-aicsbt/
-
-
-
-
-
-
+* **Github:** https://github.com/ananyaanand-pixel
+* **Mail:** ananya.anand.ir@gmail.com
+* **UniMail:** ananya_ua2604aih167@iitp.ac.in
